@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0B21D7</color>
+    <color name="secondary">#084298</color>
+    <color name="light_blue">#EFEAFF</color>
+    <color name="success">#198754</color>
+    <color name="light_success">#2DB52E</color>
+    <color name="warning">#F59E0B</color>
+    <color name="danger">#EF4444</color>
+    <color name="accent">#7C3AED</color>
+    <color name="background">#F7F9FC</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="border">#E5E7EB</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Fondos de indicadores -->
+    <color name="warning_light">#FFF3CD</color>
+    <color name="danger_light">#FDECEC</color>
+    <color name="primary_light">#E8ECFF</color>
+
+</resources>

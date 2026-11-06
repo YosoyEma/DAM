@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_inicio"
+        android:icon="@drawable/ic_home"
+        android:title="@string/nav_inicio" />
+
+    <item
+        android:id="@+id/nav_socios"
+        android:icon="@drawable/ic_people"
+        android:title="@string/nav_socios" />
+
+    <item
+        android:id="@+id/nav_pagos"
+        android:icon="@drawable/ic_payment"
+        android:title="@string/nav_pagos" />
+
+    <item
+        android:id="@+id/nav_mas"
+        android:icon="@drawable/ic_more"
+        android:title="@string/nav_mas" />
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tipografía -->
+    <dimen name="text_h1">36sp</dimen>
+    <dimen name="text_h2">32sp</dimen>
+    <dimen name="text_h3">24sp</dimen>
+    <dimen name="text_paragraph">20sp</dimen>
+    <dimen name="text_menu">18sp</dimen>
+    <dimen name="text_input">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+
+</resources>

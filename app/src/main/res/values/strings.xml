@@ -1,0 +1,367 @@
+<resources>
+
+    <!-- ========================= -->
+    <!-- GENERAL -->
+    <!-- ========================= -->
+
+    <!-- Aplicación -->
+    <string name="app_name">Club Deportivo</string>
+    <string name="titulo_club">CLUB DEPORTIVO</string>
+    <string name="subtitulo_club">Gestión Administrativa</string>
+
+    <!-- Inicio de sesión -->
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="ingresar_usuario">Ingresá tu usuario</string>
+    <string name="ingresar_contrasena">********</string>
+    <string name="login_campos_vacios">Complete todos los campos</string>
+    <string name="login_bienvenido">¡Bienvenido!</string>
+
+    <!-- Navegación inferior -->
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_socios">Socios</string>
+    <string name="nav_pagos">Pagos</string>
+    <string name="nav_mas">Más</string>
+
+    <!-- Accesibilidad -->
+    <string name="logo_club">Logo Club Deportivo</string>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA PRINCIPAL -->
+    <!-- ========================= -->
+
+    <!-- Encabezado -->
+    <string name="saludo_admin">Hola, Administrador</string>
+    <string name="que_deseas_gestionar">¿Qué deseas gestionar?</string>
+
+    <!-- Nuevo socio -->
+    <string name="nuevo_socio">Nuevo socio</string>
+    <string name="nuevo_socio_desc">Registrar nuevo socio</string>
+
+    <!-- Visitantes -->
+    <string name="visitantes">Visitantes</string>
+    <string name="visitantes_desc">Registrar pase diario</string>
+
+    <!-- Pagos -->
+    <string name="pagos">Pagos</string>
+    <string name="pagos_desc">Registrar pago de cuota</string>
+
+    <!-- Vencimientos -->
+    <string name="vencimientos">Vencimientos</string>
+    <string name="vencimientos_desc">Consultar vencimientos</string>
+
+    <!-- Sesión -->
+    <string name="cerrar_sesion">Cerrar sesión</string>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA NUEVO SOCIO -->
+    <!-- ========================= -->
+
+    <!-- Datos personales -->
+    <string name="datos_personales">Datos personales</string>
+
+    <!-- Nombre -->
+    <string name="nombre">Nombre</string>
+    <string name="ingresar_nombre">Ingresá tu nombre</string>
+
+    <!-- Apellido -->
+    <string name="apellido">Apellido</string>
+    <string name="ingresar_apellido">Ingresá tu apellido</string>
+
+    <!-- DNI -->
+    <string name="dni">DNI</string>
+    <string name="ingresar_dni">Ej. 22333444</string>
+
+    <!-- Teléfono -->
+    <string name="telefono">Teléfono</string>
+    <string name="ingresar_telefono">Ej. 11 1234 5678</string>
+
+    <!-- Apto físico -->
+    <string name="apto_fisico">Apto Físico</string>
+
+    <!-- Actividad opcional -->
+    <string name="actividad">Actividad (opcional)</string>
+    <string name="seleccionar_actividad">Seleccionar Actividad</string>
+
+    <!-- Botón -->
+    <string name="guardar">Guardar</string>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA REGISTRO SOCIO Y VISITA EXITOSO -->
+    <!-- ========================= -->
+
+    <string name="socio_registrado">Socio Registrado</string>
+    <string name="visita_registrada">Visita Registrada</string>
+    <string name="socio_registrado_mensaje">El socio fue registrado correctamente</string>
+    <string name="visita_registrada_mensaje">La visita fue registrada correctamente</string>
+    <string name="ver_carnet">Ver carnet</string>
+    <string name="ir_al_inicio">Ir al inicio</string>
+    <string name="exito_icono_descripcion">Registro exitoso</string>
+
+    <!-- ========================= -->
+    <!-- PANTALLA CARNET DE SOCIO -->
+    <!-- ========================= -->
+
+    <!-- Encabezado -->
+    <string name="carnet_socio">Carnet de Socio</string>
+    <string name="vista_previa_carnet">Vista previa del carnet</string>
+
+    <!-- Datos del socio -->
+    <string name="numero_socio">N.º de socio:</string>
+    <string name="nombre_carnet">Nombre:</string>
+    <string name="estado">Estado:</string>
+    <string name="dni_carnet">DNI:</string>
+    <string name="fecha_alta">Fecha de alta:</string>
+
+    <!-- Datos simulados -->
+    <string name="carnet_numero_simulado">0001</string>
+    <string name="carnet_nombre_simulado">Lucía Fernández</string>
+    <string name="carnet_dni_simulado">32.456.789</string>
+    <string name="carnet_estado_simulado">Activo</string>
+    <string name="carnet_fecha_alta_simulada">15/03/2026</string>
+
+    <!-- Botones -->
+    <string name="imprimir_carnet">Imprimir carnet</string>
+    <string name="ir_inicio">Ir al inicio</string>
+
+    <!-- Accesibilidad -->
+    <string name="foto_socio">Foto del socio</string>
+    <string name="codigo_qr_carnet">Código QR del carnet</string>
+    <string name="encabezado_carnet">Encabezado del carnet</string>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA REGISTRAR VISITA -->
+    <!-- ========================= -->
+
+    <!-- Encabezado -->
+    <string name="registrar_visita">Registrar Visita</string>
+
+    <!-- Actividad obligatoria -->
+    <string name="actividad_no_socio">Actividad</string>
+
+    <!-- Horario -->
+    <string name="horario">Horario</string>
+    <string name="seleccionar_horario">Seleccionar horario</string>
+
+    <!-- Monto -->
+    <string name="monto">Monto</string>
+    <string name="ingresar_monto">Ingresar monto</string>
+
+    <!-- Fecha -->
+    <string name="fecha">Fecha</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+
+    <!-- Botón -->
+    <string name="limpiar">Limpiar</string>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA REGISTRAR PAGO -->
+    <!-- ========================= -->
+
+    <!-- Encabezado -->
+    <string name="registrar_pago">Registrar Pago</string>
+
+    <!-- Búsqueda -->
+    <string name="buscar">Buscar</string>
+    <string name="buscar_dni">Ingresar DNI</string>
+    <string name="buscar_persona">Buscar persona</string>
+
+    <!-- Tipo de persona -->
+    <string name="socio">Socio</string>
+    <string name="no_socio">No Socio</string>
+    <string name="persona">Persona</string>
+
+    <!-- Medio de pago -->
+    <string name="medio_pago">Medio de Pago</string>
+    <string name="seleccionar_medio_pago">Seleccionar Medio de Pago</string>
+
+    <!-- Cuotas -->
+    <string name="cuotas">Cuotas</string>
+    <string name="cuota_1">1</string>
+    <string name="cuota_3">3</string>
+    <string name="cuota_6">6</string>
+
+    <!-- Monto simulado -->
+    <string name="monto_cuota_simulado">$ 25.000</string>
+
+    <!-- ========================= -->
+    <!-- PANTALLA COMPROBANTE DE PAGO -->
+    <!-- ========================= -->
+
+    <!-- Encabezado -->
+    <string name="comprobante_pago">Comprobante de Pago</string>
+    <string name="vista_previa_comprobante">Vista previa de comprobante</string>
+
+    <!-- Datos del comprobante -->
+    <string name="concepto">Concepto</string>
+
+    <!-- Datos simulados del comprobante (Provisorio) -->
+    <string name="comprobante_fecha_simulada">29/09/2026</string>
+    <string name="comprobante_nombre_simulado">María González</string>
+    <string name="comprobante_dni_simulado">30.111.222</string>
+    <string name="comprobante_concepto_simulado">Cuota mensual</string>
+    <string name="comprobante_medio_pago_simulado">Tarjeta</string>
+    <string name="comprobante_cuotas_simuladas">3</string>
+    <string name="comprobante_monto_simulado">$12.500</string>
+    <string name="comprobante_estado_simulado">Pagado</string>
+
+
+    <!-- ========================= -->
+    <!-- MEDIOS DE PAGO -->
+    <!-- ========================= -->
+
+    <string-array name="medios_pago">
+        <item>Efectivo</item>
+        <item>Tarjeta de crédito</item>
+    </string-array>
+
+
+    <!-- ========================= -->
+    <!-- ACTIVIDADES -->
+    <!-- ========================= -->
+
+    <string-array name="actividades">
+        <item>Futbol Infantil</item>
+        <item>Futbol Juvenil</item>
+        <item>Basquet</item>
+        <item>Voley</item>
+        <item>Taekwondo</item>
+        <item>Patin Artistico</item>
+        <item>Gimnasia Funcional</item>
+        <item>Zumba</item>
+    </string-array>
+
+
+    <!-- ========================= -->
+    <!-- HORARIOS PROVISIONALES -->
+    <!-- ========================= -->
+
+    <!-- Se reemplazarán por los horarios obtenidos desde la base de datos -->
+    <string-array name="horarios">
+        <item>Lunes 08:00 - 09:00</item>
+        <item>Lunes 19:00 - 20:30</item>
+        <item>Martes 09:00 - 10:00</item>
+        <item>Martes 18:00 - 19:30</item>
+        <item>Martes 19:00 - 20:30</item>
+        <item>Martes 20:00 - 21:00</item>
+        <item>Martes 20:00 - 21:30</item>
+        <item>Miércoles 08:00 - 09:00</item>
+        <item>Miércoles 18:00 - 19:30</item>
+        <item>Miércoles 19:00 - 20:30</item>
+        <item>Jueves 09:00 - 10:00</item>
+        <item>Jueves 18:00 - 19:30</item>
+        <item>Jueves 20:00 - 21:00</item>
+        <item>Jueves 20:00 - 21:30</item>
+        <item>Viernes 08:00 - 09:00</item>
+        <item>Viernes 18:00 - 19:30</item>
+        <item>Viernes 19:00 - 20:30</item>
+    </string-array>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA VENCIMIENTOS -->
+    <!-- ========================= -->
+
+    <!-- Indicadores -->
+    <string name="vencen_hoy">Vencen Hoy</string>
+    <string name="deudores">Deudores</string>
+    <string name="total_socios">Total Socios</string>
+
+    <!-- Filtros -->
+    <string name="filtro_deudores">Deudores</string>
+    <string name="filtro_vencen_hoy">Vencen hoy</string>
+
+    <!-- Botón -->
+    <string name="imprimir">Imprimir</string>
+
+    <!-- ====================== -->
+    <!-- Mensajes de validación -->
+    <!-- ====================== -->
+    <string name="mensaje_dni_vacio">Ingrese un DNI</string>
+    <string name="mensaje_persona_no_encontrada">No se encontró una persona con ese DNI</string>
+    <string name="mensaje_campos_incompletos">Complete todos los campos obligatorios</string>
+    <string name="mensaje_seleccionar_medio_pago">Seleccione un medio de pago</string>
+    <string name="mensaje_seleccionar_cuotas">Seleccione la cantidad de cuotas</string>
+    <string name="mensaje_comprobante_impreso">Comprobante impreso con éxito</string>
+
+
+    <!-- ========================= -->
+    <!-- DATOS SIMULADOS - VENCIMIENTOS -->
+    <!-- ========================= -->
+
+    <!-- Nombres de socios -->
+    <string-array name="vencimientos_nombres">
+        <item>Lucía Fernández</item>
+        <item>Diego López</item>
+        <item>María González</item>
+        <item>Carlos Martínez</item>
+        <item>Ana Rodríguez</item>
+        <item>Pedro Gómez</item>
+        <item>Laura Sánchez</item>
+        <item>Martín Díaz</item>
+        <item>Sofía Romero</item>
+        <item>Javier Torres</item>
+    </string-array>
+
+    <!-- Números de socio -->
+    <string-array name="vencimientos_socios">
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>8</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>21</item>
+        <item>24</item>
+        <item>27</item>
+    </string-array>
+
+    <!-- Montos -->
+    <string-array name="vencimientos_montos">
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+        <item>25000</item>
+    </string-array>
+
+    <!-- Estados de vencimiento -->
+    <string-array name="vencimientos_estados">
+        <item>Vence Hoy</item>
+        <item>Deudor</item>
+        <item>Vence Hoy</item>
+        <item>Deudor</item>
+        <item>Vence Hoy</item>
+        <item>Deudor</item>
+        <item>Al día</item>
+        <item>Al día</item>
+        <item>Deudor</item>
+        <item>Al día</item>
+    </string-array>
+
+    <!-- ========================= -->
+    <!-- DATOS SIMULADOS - CARNET -->
+    <!-- ========================= -->
+
+    <string-array name="carnet_datos_simulados">
+        <item>125</item>
+        <item>María González</item>
+        <item>30.111.222</item>
+        <item>Activo</item>
+        <item>29/09/2026</item>
+    </string-array>
+
+</resources>
